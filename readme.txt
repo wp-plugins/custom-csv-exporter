@@ -35,7 +35,7 @@ In the current version of the plugin, you mush first choose your post type and c
 
 == Screenshots ==
 
-/assets/screenshot-1.png
+1. Screenshot of the plugin settings page. 
 
 == Changelog ==
 
