@@ -16,7 +16,7 @@ function ccsve_generate(){
 	// Get the custom fields (for the custom post type) that are being exported
 	$ccsve_generate_custom_fields = get_option('ccsve_custom_fields');
 	// Query the DB for all instances of the custom post type
-	$ccsve_generate_query = get_posts(array('post_type' => $ccsve_generate_post_type, 'post_status' => 'publish'));
+	$ccsve_generate_query = get_posts(array('post_type' => $ccsve_generate_post_type, 'post_status' => 'publish', 'posts_per_page' => -1));
 	// Count the number of instances of the custom post type
 	$ccsve_count_posts = count($ccsve_generate_query);	
 	
