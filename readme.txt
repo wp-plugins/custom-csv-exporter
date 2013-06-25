@@ -9,6 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Allows you to export values of custom fields into a CSV file. 
 
+
 == Description ==
 
 This plugin allows you to export the values of custom fields into a CSV file. You can choose a post type (including defaults posts or pages)
@@ -39,11 +40,19 @@ In the current version of the plugin, you mush first choose your post type and c
 
 == Changelog ==
 
+<<<<<<< .mine
+= .2 = 
+*Fixed bug that limited number of posts that could be exported
+
+=======
 = .2 =
 *Fixed bug that limited number of posts that could be exported
 
+>>>>>>> .r731619
 = .1 =
 * Initial release of plugin. 
+
+
 
 
 == Upgrade Notice ==
