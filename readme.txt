@@ -39,6 +39,9 @@ In the current version of the plugin, you mush first choose your post type and c
 
 == Changelog ==
 
+= .2 =
+*Fixed bug that limited number of posts that could be exported
+
 = .1 =
 * Initial release of plugin. 
 
