@@ -2,7 +2,7 @@
 /*
 Plugin Name: Custom CSV Export Plugin
 Description: A plugin to export custom fields from a WP site into a CSV file. 
-Version: .1
+Version: .2
 Author: Martha Burtis
 Author URI: http://wrapping.marthaburtis.net
 License: GPL2
